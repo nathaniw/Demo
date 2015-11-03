@@ -1,3 +1,6 @@
+body{
+	padding:20px;
+}
 #chartdiv {#chartdiv {
 	width		: 100%;
 	height		: 500px;
@@ -6,4 +9,8 @@
 	width		: 100%;
 	height		: 500px;
 	font-size	: 11px;
-}	
+}
+
+select#dataCategoriesDropdown{
+	width:35%;
+}
